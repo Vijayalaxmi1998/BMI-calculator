@@ -1,0 +1,90 @@
+
+        #mainDiv{
+            height: 422px;
+            width: 300px;
+            background-color: rgb(0, 234, 255);
+            margin: 150px;
+            padding: 20px;
+            border-radius: 15px;
+        }
+        #your{
+            height: 40px;
+            background-color: white;
+            text-align: center;
+            padding-top: 20px;
+            font-size: large;
+            border-radius: 10px;
+        }
+        .input{
+            display: inline-block;
+            /* /* height: 30px;
+            width: 20px; */
+        } 
+        #div1{
+            display:inline-block;
+            height: 230px;
+            width: 270px;
+            background-color: white;
+            padding: 15px;
+            margin-top: 20px;
+            border-radius: 20px;
+        }
+        #input1{
+            display: inline-block;
+            width: 100px;
+            height: 110px;
+            background-color: rgb(237, 232, 232);
+            padding: 10px;
+            border-radius: 10px;
+        }
+        #input2{
+            display: inline-block;
+            width: 100px;
+            height: 110px;
+            background-color: rgb(247, 239, 239);
+            padding: 10px;
+            border-radius: 10px;
+            margin-left: 15px;
+            
+        }
+        .input{
+            display: inline-block;
+            width: 70px;
+            height: 60px;
+            background-color: rgb(255, 255, 255);
+            border-radius: 10px;
+            padding: 10px;
+            margin-top: 5px;
+        }
+        .label{
+            text-align: center;
+            color: rgb(16, 15, 15);
+            padding-left: 18px;
+        }
+        #submit{
+            width:260px;
+            height: 32px;
+            margin-top: 15px;
+            background-color: rgb(31, 31, 203);
+            color: white;
+            border-radius: 10px;
+
+        }
+        #reset{
+            width: 260px;
+            height: 32px;
+            margin-top: 15px;
+            background-color: red;
+            color: white;
+            border-radius: 10px;
+        }
+        #heading{
+            text-align: center;
+        }
+
+        #resultBMI{
+            color: gold;
+            border: black;
+            background-color: black;
+        }
+    
