@@ -15,5 +15,16 @@ submitButton.addEventListener("click",()=>{
     console.log(result1);
     console.log(result.innerHTML=result1.toFixed(2));
 })
-let head=document.querySelector("#heading")
-console.log(head.innerHTML);
+// let head=document.querySelector("#heading")
+// console.log(head.innerHTML);
+
+let string="vijayalaxmi";
+let array=string.split("");
+array.reverse();
+string=array.join("");
+console.log(string);
+
+
+
+//sushama motekar : 8329013251
+
